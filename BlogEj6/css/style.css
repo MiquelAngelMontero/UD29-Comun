@@ -31,3 +31,11 @@
     margin-top: 110%;
     margin-left: -150%;
 }
+
+#columna2 > div > ul,li{
+    list-style: none;
+}
+
+#columna2 > div > ul > li > a{
+    text-decoration: none;
+}
